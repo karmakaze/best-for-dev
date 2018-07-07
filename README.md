@@ -11,10 +11,12 @@ The top picks are chosen by me and is thus subjective. I make an effort to make 
 
 *NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a Free Tier and not just a free trial. If the Free Tier is time bucketed it has to be at least a year.
 
-Table of Contents
-=================
+Best of Free for Dev
+====================
 
    * [Source Code Repos](#source-code-repos)
+     * [bitbucket.org](https://bitbucket.org/) (free private Git/Mercurial repos)
+     * [github.com](https://github.com/) (free public/OSS repos, or if you already have a paid account)
    * [Artifact Repos](#artifact-repos)
    * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
    * [Code Quality](#code-quality)
@@ -24,20 +26,33 @@ Table of Contents
    * [Security and PKI](#security-and-pki)
    * [Management Systems](#management-system)
    * [Log Management](#log-management)
+     * [loggly.com](https://www.loggly.com/) — (single user, lite option)
    * [Translation Management](#translation-management)
    * [Monitoring](#monitoring)
+     * [datadoghq.com](https://www.datadoghq.com/) (metrics: up to 5 nodes)
+     * [newrelic.com](https://newrelic.com/) — (APM: 24 hours data retention)
    * [Crash and Exception Handling](#crash-and-exception-handling)
    * [Search](#search)
+   * [Notifications](#notifications)
+     * [onesignal.com](https://onesignal.com/) — (push + email notifications)
    * [Email](#email)
    * [CDN and Protection](#cdn-and-protection)
+     * [cloudflare.com](https://www.cloudflare.com/) — (free shared SSL certificate, DNS features)
    * [PaaS](#paas)
+     * [heroku.com](https://www.heroku.com/) (free for single process apps)
+     * [zeit.co/now](https://zeit.co/now) (OSS projects: Node.js, static sites, Docker)
    * [BaaS](#baas)
    * [Web Hosting](#web-hosting)
+     * [netlify.com](https://www.netlify.com/) (static site or app, free 100 GB)
    * [DNS](#dns)
+     * [cloudflare.com](https://www.cloudflare.com/) — (free shared SSL certificate, DNS features)
+     * [namecheap.com](https://www.namecheap.com/domains/freedns.aspx) (whois privacy)
    * [IaaS](#iaas)
    * [DBaaS](#dbaas)
    * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
    * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
+     * whichever comes with your Source repo, or
+     * TBD
    * [Storage and Media Processing](#storage-and-media-processing)
    * [Design and UI](#design-and-ui)
    * [Data Visualization on Maps](#data-visualization-on-maps)
@@ -52,6 +67,10 @@ Table of Contents
    * [Miscellaneous](#miscellaneous)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Other Free Resources](#other-free-resources)
+
+# free-for-dev README
+
+What follows is the remainder of the free-for-dev README for reference and merging.
 
 ## Source Code Repos
 
